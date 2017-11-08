@@ -39,6 +39,7 @@ There aren’t many things that I find boring. I don’t shy away from learning 
 
 **Makers Academy** (Nov 2015 - Jun 2017)    
 *Coach/Junior Developer*    
+
 I always wanted to learn to code, so Makers Academy gave me the opportunity to do their web development course while I was working there. After successfully completing it, I rejoined the team and moved to a different role. My main responsibilities included:
 - Supporting the students during their 4-week PreCourse
 - Further developing and maintaining the PreCourse curriculum
@@ -48,6 +49,7 @@ I always wanted to learn to code, so Makers Academy gave me the opportunity to d
 
 **Makers Academy** (Mar 2013 - Aug 2015)   
 *Office Manager/Operations*   
+
 I was Makers Academy’s first hire, when it a was a brand-new startup in a run-down office building in Old Street. I had a chance to work in a variety of areas, in a very fast-paced work environment, that included:
 - Developing and/or maintaining processes for different areas of the business (bookkeeping, students admissions, HR, operations), which involved building several spreadsheets that
 - Setting up MacBooks for students
@@ -61,6 +63,7 @@ Some projects that I’m proud of:
 
 **FamilySearch** (May 2011 - Oct 2012)    
 *Archival Digitisation*  
+
 - Digitising documents for the world’s largest collection of free family trees, genealogy records and resources.
 - Handling large amounts of digital imagery, including capturing, naming and filing.
 - Project management tasks such as setting working goals for teams, monitoring and reporting progress, planning training sessions.
