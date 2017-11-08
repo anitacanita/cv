@@ -51,7 +51,7 @@ I always wanted to learn to code, so Makers Academy gave me the opportunity to d
 *Office Manager/Operations*   
 
 I was Makers Academy’s first hire, when it a was a brand-new startup in a run-down office building in Old Street. I had a chance to work in a variety of areas, in a very fast-paced work environment, that included:
-- Developing and/or maintaining processes for different areas of the business (bookkeeping, students admissions, HR, operations), which involved building several spreadsheets that
+- Developing and/or maintaining processes for different areas of the business (bookkeeping, students admissions, HR, operations)
 - Setting up MacBooks for students
 - Writing the company’s quarterly newsletter
 - Liaising with suppliers (e.g. cleaners, catering, security, etc)
