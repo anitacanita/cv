@@ -17,24 +17,6 @@ My experience in photography and digitisation gave me an acute eye for detail. T
 
 There aren’t many things that I find boring. I don’t shy away from learning new things and taking on new experiences and challenges. This has proved invaluable during my time working and studying at Makers Academy
 
-## Education
-
-#### Makers Academy (Sep 2015 - Nov 2015)
-
-- OOP, TDD, MVC
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Instituto Português de Fotografia, Lisbon (2009 - 2011)
-- 18-month Professional Photography Course
-
-
-#### ISPA - Instituto Superior de Psicologia Aplicada (2000 - 2008)
-
-- BSc in Psychology
-- Master Course in Educational Psychology
-
 ## Experience
 
 **Makers Academy** (Nov 2015 - Jun 2017)    
@@ -67,6 +49,26 @@ Some projects that I’m proud of:
 - Digitising documents for the world’s largest collection of free family trees, genealogy records and resources.
 - Handling large amounts of digital imagery, including capturing, naming and filing.
 - Project management tasks such as setting working goals for teams, monitoring and reporting progress, planning training sessions.
+
+
+## Education
+
+#### Makers Academy (Sep 2015 - Nov 2015)
+
+- OOP, TDD, MVC
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
+
+#### Instituto Português de Fotografia, Lisbon (2009 - 2011)
+
+- 18-month Professional Photography Course
+
+#### ISPA - Instituto Superior de Psicologia Aplicada (2000 - 2008)
+
+- BSc in Psychology
+- Master Course in Educational Psychology
+
 
 ## Interests
 - Birdwatching
