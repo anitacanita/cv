@@ -23,11 +23,11 @@ There aren’t many things that I find boring. I don’t shy away from learning 
 *Coach/Junior Developer*    
 
 I always wanted to learn to code, so Makers Academy gave me the opportunity to do their web development course while I was working there. After successfully completing it, I rejoined the team and moved to a different role. My main responsibilities included:
+- Supporting the Sales and Marketing team in their technical needs, by automating processes and supporting the development of more efficient ones (e.g. using Twitter API to gather data; setting up A/B tests; pulling data from website forms into PipeDrive and customer.io)
+- Providing ad-hoc development in the company’s internal software applications and website (e.g. updating a Sinatra application using data from Github and Codewars APIs; fixing bugs; general website maintenance)
 - Supporting the students during their 4-week PreCourse (e.g. help with debugging, technical support, giving the tools to find the right answers, etc.)
 - Further developing and maintaining the PreCourse curriculum
 - Interviewing and selecting student applicants
-- Supporting the Sales and Marketing team in their technical needs, by automating processes and supporting the development of more efficient ones (e.g. using Twitter API to gather data; setting up A/B tests; pulling data from website forms into PipeDrive and customer.io)
-- Providing ad-hoc development in the company’s internal software applications and website (e.g. updating a Sinatra application using data from Github and Codewars APIs; fixing bugs; general website maintenance)
 
 **Makers Academy** (Mar 2013 - Aug 2015)   
 *Office Manager/Operations*   
